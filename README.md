@@ -1,11 +1,10 @@
-# Mi Wiki de Inglés
+# English Study Wiki
 
-Bienvenido/a a mi wiki personal de estudio de inglés, migrada desde Obsidian.
+Welcome to my personal English study wiki, migrated from Obsidian.
 
-Usá el menú de la izquierda para navegar por tema, o el buscador de arriba para encontrar cualquier nota.
+Use the menu on the left to navigate by topic, or the search bar at the top to find any note.
 
-## Secciones
-
+## Sections
 - Alphabet
 - Numbers
 - Greetings
