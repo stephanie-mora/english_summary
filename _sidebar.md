@@ -7,6 +7,6 @@
   - [4. Days, Months & Seasons](Summary/4.%20Days,%20Months%20&%20Seasons.md)
   - [5. Verb To Be](Summary/5.%20Verb%20To%20Be.md)
   - [6. Common Uncountable Nouns](Summary/6.%20Common%20Uncountable%20Nouns.md)
-  - [7. Indefinite and Definite Articles](Summary/5.%20Indefinite%20and%20Definite%20Articles.md)
+  - [7. Indefinite and Definite Articles](Summary/7.%20Indefinite%20and%20Definite%20Articles.md)
   - [Regular Verbs](Summary/Regular%20Verbs.md)
   - [Irregular Verbs](Summary/Irregular%20Verbs.md)
