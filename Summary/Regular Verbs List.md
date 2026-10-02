@@ -1,5 +1,5 @@
 
-# Regular Verbs - Complete List
+# Regular Verbs List
 
 | Infinitive | Past Simple | Past Participle | Meaning |
 |------------|-------------|-----------------|---------|

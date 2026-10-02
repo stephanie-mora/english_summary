@@ -1,3 +1,4 @@
+
 ## Greetings (Saludos)
 
 Greetings are used to say hello and start a conversation. Different greetings are used in different situations (formal/informal).
@@ -116,11 +117,11 @@ After being introduced to someone, you should respond politely.
 
 ## Dialog Example (Ejemplo de Diálogo)
 
-> **A:** Hello! How are you?
-> **B:** I'm great, thanks! And you?
-> **A:** Not bad! By the way, this is my friend, John.
-> **B:** Nice to meet you, John.
-> **C:** Nice to meet you too.
-> **B:** Well, I have to go. See you later!
-> **A & C:** Bye! Take care!
+> - **A:** Hello! How are you?
+> - **B:** I'm great, thanks! And you?
+> - **A:** Not bad! By the way, this is my friend, John.
+> - **B:** Nice to meet you, John.
+> - **C:** Nice to meet you too.
+> - **B:** Well, I have to go. See you later!
+> - **A & C:** Bye! Take care!
 

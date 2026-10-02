@@ -1,4 +1,4 @@
-# Irregular Verbs - Complete List
+# Irregular Verbs  List
 
 | Infinitive        | Past Simple         | Past Participle       | Meaning                  |
 |-------------------|---------------------|-----------------------|--------------------------|
